@@ -1,2 +1,2 @@
-# Online_Food_Delivery_System
-The Food Delivery System is a full Stack Web Development Application that allows customers to order their meal of their liking, which is based on ReactJS, NodeJS and mongoDB... 
+# Online_Medicine_Delivery_System
+The Medicine Delivery System is a full Stack Web Development Application that allows customers to order medicines, cosmetics and ayurvedic products, using MERN stack.
