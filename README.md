@@ -7,7 +7,6 @@
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Stack Week 1 Task](#stack-week-1-task)
 
 
 ## Technologies Used
@@ -16,11 +15,10 @@
 - Express.js
 - React.js
 - Node.js
-- [Any other technologies or libraries used]
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/AbhishekJamkar/Techplement.git](https://github.com/AbhishekJamkar/Online_Medicine_Delivery_System.git`
+1. Clone the repository: `git clone https://github.com/AbhishekJamkar/Online_Medicine_Delivery_System.git`
 2. Install dependencies:
    - Navigate to the server directory: `cd backend`
    - Install server dependencies: `npm install`
