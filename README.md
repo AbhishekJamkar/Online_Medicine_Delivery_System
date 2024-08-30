@@ -20,7 +20,7 @@ Med-X Project
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/AbhishekJamkar/Techplement.git`
+1. Clone the repository: `git clone https://github.com/AbhishekJamkar/Techplement.git](https://github.com/AbhishekJamkar/Online_Medicine_Delivery_System.git`
 2. Install dependencies:
    - Navigate to the server directory: `cd backend`
    - Install server dependencies: `npm install`
@@ -42,5 +42,5 @@ Med-X Project
 
 - **Task:** Build a Simple Quote of the Day website.
 - **Description:** Build a Quote of the Day that will show users a random quote from the API. Allow users to search for quotes by author name. Implement both front-end and back-end functionalities, including user interface design & data storage. Build the web app with a responsive user interface.
-- **GitHub Repository:** [Med-D]()
+- **GitHub Repository:** [Med-D](https://github.com/AbhishekJamkar/Online_Medicine_Delivery_System.git)
 
