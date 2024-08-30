@@ -38,9 +38,5 @@ Med-X Project
 
 [Instructions on how to use the application, including any login credentials, demo accounts, or sample data]
 
-## Stack Week 1 Task
-
-- **Task:** Build a Simple Quote of the Day website.
-- **Description:** Build a Quote of the Day that will show users a random quote from the API. Allow users to search for quotes by author name. Implement both front-end and back-end functionalities, including user interface design & data storage. Build the web app with a responsive user interface.
 - **GitHub Repository:** [Med-D](https://github.com/AbhishekJamkar/Online_Medicine_Delivery_System.git)
 
