@@ -38,5 +38,5 @@ Med-X Project
 
 [Instructions on how to use the application, including any login credentials, demo accounts, or sample data]
 
-- **GitHub Repository:** [Med-D](https://github.com/AbhishekJamkar/Online_Medicine_Delivery_System.git)
+- **GitHub Repository:** [Med-X](https://github.com/AbhishekJamkar/Online_Medicine_Delivery_System.git)
 
