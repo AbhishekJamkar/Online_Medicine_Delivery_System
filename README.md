@@ -1,7 +1,6 @@
 Med-X Project
 # Online_Medicine_Delivery_System website Using Mernstack 
 
-Video Link:[https://shorturl.at/iqrGS]
 
 ## Table of Contents
 
